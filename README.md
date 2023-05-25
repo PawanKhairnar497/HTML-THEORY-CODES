@@ -10,11 +10,13 @@
  
  4.  4G is a Intenet - Android is a operating system - Google is a Search Engine - Chrome is a Web Browser - V8 is a browser Engine.
      
- 5.Static Website: HTML or HTML,CSS is enough for static website. You don't change data directly in static site, if you want so you change code Because you don't have any dedicated server-site setup. for ex: Gym Website, Online Resume, Newsletter, Blog .
+ 5.STAIIC WEBSITE: HTML or HTML,CSS is enough for static website. You don't change data directly in static site, if you want so you change code Because you don't have any dedicated server-site setup. for ex: Gym Website, Online Resume, Newsletter, Blog .
  
- 6.Dynamic Website: Dynamic Website is a type of website that uses a server-side programming & database to generate it's content.Dynamic site provide dynamic & interactive functionality to user. It has abilities like searching data in database , Submit from data display custom content etc. for ex: Twitter , Linkedin, facebook, Instagram, Youtube .
-
-
+ 6.DYNAMIC WEBSITE: Dynamic Website is a type of website that uses a server-side programming & database to generate it's content.Dynamic site provide dynamic & interactive functionality to user. It has abilities like searching data in database , Submit from data display custom content etc. for ex: Twitter , Linkedin, facebook, Instagram, Youtube .
  
+ 7.CLIENT: client is a piece of computer hardware or software that accesses a service made or available by a server. "web browser" are clients that connect to web server. A client typically refers to a device or software program that connects to a web server in order to access web-based resources or services.That clients are typically web browsers, such as Google's chrome which are used to access & display web pages & other content.
+ 
+ 8.SERVER: Server is a device or software program that provides resources or services to clients over the internet or a private network. In web development clients are typically web browsers or mobile apps that connect to the server in order to access web-based resources or services.
+
 # Start with HTML - 
 I Learn about html,head,body tags & extensions like Live server , prettier. I write & run my first programme today. I am very happy & curious about my Full Stack Web Developement Journey.  
