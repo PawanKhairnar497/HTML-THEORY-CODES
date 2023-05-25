@@ -4,8 +4,8 @@
 ### 2.Web Browser: An application used to access & view websites is called "WEB BROWSER" . Chrome, firefox, brave, edge, opera, safari, Internet explorer, Seamonkey, DuckDuckgo these are Web Browsers. 
  
 ### 3.Browser Engine: A browser engine also known as a layout engine or rendering engine. Browser Engine is a core software component of every major web browser. The primary job of a browser engine is to transform HTML documents and other resources of a web page into an interactive visual representation on a user's device.
- i)HTML,CSS render engine is render programmers code & show clearly on web-browser .for ex: Google's Blink, Mozilla firefox's Gecko, Apple's Webkit.
- ii) Between 1998-2000 programmers started using Javascript. Javascript code is not render properly on render engine, Then companies made "Javascript Engine".
+#### i)HTML,CSS render engine is render programmers code & show clearly on web-browser .for ex: Google's Blink, Mozilla firefox's Gecko, Apple's Webkit.
+#### ii) Between 1998-2000 programmers started using Javascript. Javascript code is not render properly on render engine, Then companies made "Javascript Engine".
  for ex: Google's V8, Mozilla firefox's spidermonkey, Apple's Nitro.
  
  ### 4.  4G is a Intenet - Android is a operating system - Google is a Search Engine - Chrome is a Web Browser - V8 is a browser Engine.
