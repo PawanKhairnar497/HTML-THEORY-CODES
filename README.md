@@ -24,4 +24,6 @@ for ex: Google's Blink, Mozilla firefox's Gecko, Apple's Webkit.
  
  ### HTML: HTML means "Hyper Text Markup Language". HTML used to create & structure content on the web. HTML was created by Berners-Lee in late 1991 but "HTML 2.0"was the first standard HTML specifications which was published in 1995. HTML 4.01 was a major version of HTML & it was published in late 1999. HTML invented in CERN research institute of Switzerland in 1991. HTML is a skeleton of Websites.      
  #### I learn "comment" , "Tags" , "Element" , "Attribute" & "HTML entities".
+ 
+ ### EMMET: Emmet is a time saver & best friend for especially , "Web Developers". Emmet is a plug in for text editors that allows you to write HTML & CSS faster by using abbreviations that expand into full code. It can save a lot of time when writing code because you can type a few characters & then expand them into a long block of code with a single keystroke. Features Of Emmet - Abbreviations expansion , code formating , code snippets , customizations , cross-editor compatibility. 
 
