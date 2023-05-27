@@ -27,5 +27,5 @@ for ex: Google's Blink, Mozilla firefox's Gecko, Apple's Webkit.
  
  ### EMMET: Emmet is a time saver & best friend for especially , "Web Developers". Emmet is a plug in for text editors that allows you to write HTML & CSS faster by using abbreviations that expand into full code. It can save a lot of time when writing code because you can type a few characters & then expand them into a long block of code with a single keystroke. Features Of Emmet - Abbreviations expansion , code formating , code snippets , customizations , cross-editor compatibility. 
  
- ### Parent child & Grouping: 1)Multiplication div* 5, 2)Siblings div+p+p, 3)Grouping div>(nav*li*5)+section, 4)Parent div>ul>li .s   
+ ### Parent child & Grouping: 1)Multiplication div* 5, 2)Siblings div+p+p, 3)Grouping div>(nav>li* 5)+section, 4)Parent div>ul>li .s   
 
