@@ -32,4 +32,4 @@ for ex: Google's Blink, Mozilla firefox's Gecko, Apple's Webkit.
  ### HEADINGS: HTML headings are defined using the h1 to h6 elements. They are used to structure the content of a webpage & they also help search engines understand the hierarchy of the content of the page.
  ### PARAGRAPHS: In HTML, you can use the "p" element to represent a paragraph.<p> This is paragraph </p> .
  
- ### Text Formating: Text formating in HTML refers to the way in which you can control the appearance of text on a web page. This can include things like making text bold or italic, changing the font or font size & aliging text. <strong>:make text bold (for screen reader) , <em>:Italic text(for screen reader) .
+ ### Text Formating: Text formating in HTML refers to the way in which you can control the appearance of text on a web page. This can include things like making text bold or italic, changing the font or font size & aliging text. <strong:make text bold (for screen reader) , <em:Italic text(for screen reader) .
