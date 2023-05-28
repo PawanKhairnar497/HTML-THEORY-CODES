@@ -11,7 +11,7 @@ for ex: Google's Blink, Mozilla firefox's Gecko, Apple's Webkit.
  
  ### 4.  4G is a Intenet - Android is a operating system - Google is a Search Engine - Chrome is a Web Browser - V8 is a browser Engine.
      
-### 5.STAIIC WEBSITE: HTML or HTML,CSS is enough for static website. You don't change data directly in static site, if you want so you change code Because you don't have any dedicated server-site setup.for ex: Gym Website, Online Resume, Newsletter, Blog .
+### 5.STATIC WEBSITE: HTML or HTML,CSS is enough for static website. You don't change data directly in static site, if you want so you change code Because you don't have any dedicated server-site setup.for ex: Gym Website, Online Resume, Newsletter, Blog .
  
 ### 6.DYNAMIC WEBSITE: Dynamic Website is a type of website that uses a server-side programming & database to generate it's content.Dynamic site provide dynamic & interactive functionality to user. It has abilities like searching data in database , Submit from data display custom content etc. for ex: Twitter , Linkedin, facebook, Instagram, Youtube .
  
@@ -30,6 +30,5 @@ for ex: Google's Blink, Mozilla firefox's Gecko, Apple's Webkit.
  ### Parent child & Grouping: 1)Multiplication div* 5, 2)Siblings div+p+p, 3)Grouping div>(nav>li* 5)+section, 4)Parent div>ul>li .   
  
  ### HEADINGS: HTML headings are defined using the h1 to h6 elements. They are used to structure the content of a webpage & they also help search engines understand the hierarchy of the content of the page.
- ### PARAGRAPHS: In HTML, you can use the "p" element to represent a paragraph.<p> This is paragraph </p> .
- 
- ### Text Formating: Text formating in HTML refers to the way in which you can control the appearance of text on a web page. This can include things like making text bold or italic, changing the font or font size & aliging text. strong:make text bold (for screen reader) , em:Italic text(for screen reader) , mark:Highlight text , abbr:Represents an abbreviation , dfn:Represents a definition , ins:Inserted text 
+ ### PARAGRAPHS: In HTML, you can use the "p" element to represent a paragraph.<p> This is paragraph </p> . 
+ ### TEXT FORMATING: Text formating in HTML refers to the way in which you can control the appearance of text on a web page. This can include things like making text bold or italic, changing the font or font size & aliging text. strong:make text bold (for screen reader) , em:Italic text(for screen reader) , mark:Highlight text , abbr:Represents an abbreviation , dfn:Represents a definition , ins:Inserted text 
