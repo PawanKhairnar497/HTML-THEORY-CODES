@@ -27,9 +27,9 @@ for ex: Google's Blink, Mozilla firefox's Gecko, Apple's Webkit.
  
  ### EMMET: Emmet is a time saver & best friend for especially , "Web Developers". Emmet is a plug in for text editors that allows you to write HTML & CSS faster by using abbreviations that expand into full code. It can save a lot of time when writing code because you can type a few characters & then expand them into a long block of code with a single keystroke. Features Of Emmet - Abbreviations expansion , code formating , code snippets , customizations , cross-editor compatibility. 
  
- ### Parent child & Grouping: 1)Multiplication div* 5, 2)Siblings div+p+p, 3)Grouping div>(nav>li* 5)+section, 4)Parent div>ul>li .s   
+ ### Parent child & Grouping: 1)Multiplication div* 5, 2)Siblings div+p+p, 3)Grouping div>(nav>li* 5)+section, 4)Parent div>ul>li .   
  
  ### HEADINGS: HTML headings are defined using the h1 to h6 elements. They are used to structure the content of a webpage & they also help search engines understand the hierarchy of the content of the page.
  ### PARAGRAPHS: In HTML, you can use the "p" element to represent a paragraph.<p> This is paragraph </p> .
  
- ### Text Formating: Text formating in HTML refers to the way in which you can control the appearance of text on a web page. This can include things like making text bold or italic, changing the font or font size & aliging text. <strong:make text bold (for screen reader) , <em:Italic text(for screen reader) .
+ ### Text Formating: Text formating in HTML refers to the way in which you can control the appearance of text on a web page. This can include things like making text bold or italic, changing the font or font size & aliging text. strong:make text bold (for screen reader) , em:Italic text(for screen reader) , mark:Highlight text , abbr:Represents an abbreviation , dfn:Represents a definition , ins:Inserted text 
