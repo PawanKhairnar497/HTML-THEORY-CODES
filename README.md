@@ -25,6 +25,7 @@ for ex: Google's Blink, Mozilla firefox's Gecko, Apple's Webkit.
  ### HTML: HTML means "Hyper Text Markup Language". HTML used to create & structure content on the web. HTML was created by Berners-Lee in late 1991 but "HTML 2.0"was the first standard HTML specifications which was published in 1995. HTML 4.01 was a major version of HTML & it was published in late 1999. HTML invented in CERN research institute of Switzerland in 1991. HTML is a skeleton of Websites.      
  #### I learn "comment" , "Tags" , "Element" , "Attribute" & "HTML entities".
  
+ ### BOILER PLATE CODE: Boiler plate code syntax :- ! + Tab . 
  ### EMMET: Emmet is a time saver & best friend for especially , "Web Developers". Emmet is a plug in for text editors that allows you to write HTML & CSS faster by using abbreviations that expand into full code. It can save a lot of time when writing code because you can type a few characters & then expand them into a long block of code with a single keystroke. Features Of Emmet - Abbreviations expansion , code formating , code snippets , customizations , cross-editor compatibility. 
  
  ### Parent child & Grouping: 1)Multiplication div* 5, 2)Siblings div+p+p, 3)Grouping div>(nav>li* 5)+section, 4)Parent div>ul>li .   
@@ -32,3 +33,7 @@ for ex: Google's Blink, Mozilla firefox's Gecko, Apple's Webkit.
  ### HEADINGS: HTML headings are defined using the h1 to h6 elements. They are used to structure the content of a webpage & they also help search engines understand the hierarchy of the content of the page.
  ### PARAGRAPHS: In HTML, you can use the "p" element to represent a paragraph.<p> This is paragraph </p> . 
  ### TEXT FORMATING: Text formating in HTML refers to the way in which you can control the appearance of text on a web page. This can include things like making text bold or italic, changing the font or font size & aliging text. strong:make text bold (for screen reader) , em:Italic text(for screen reader) , mark:Highlight text , abbr:Represents an abbreviation , dfn:Represents a definition , ins:Inserted text 
+ 
+ ### BLOCK ELEMENT: A block-level element always begins on a new line & browsers add a margin (a space) before  & after the element by default. A block-level element always occupies the entire available width (Stretches out ot the left & right as far as possible). "p" & "div" are the two often used block componenets. "address", "footer", "main", "nav","table","header", "section","canvas","article" etc, these are the examples of "Block element".
+ 
+ ### INLINE ELEMENT: A line break is not used to begin an inline element.  An element only uses the space that is required. An inline element cannot contain a block-level element. "a","b","button","dfn","small","strong","sub","sup","img","i","span" etc, these are the examples of "Inline element".  
