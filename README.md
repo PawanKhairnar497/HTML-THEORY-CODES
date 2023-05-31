@@ -39,3 +39,5 @@ for ex: Google's Blink, Mozilla firefox's Gecko, Apple's Webkit.
  ### INLINE ELEMENT: A line break is not used to begin an inline element.  An element only uses the space that is required. An inline element cannot contain a block-level element. "a","b","button","dfn","small","strong","sub","sup","img","i","span" etc, these are the examples of "Inline element".  
  
  ### IMAGES: Images are a common element of web design & they serve a number of different purpose on websites. There are 3 types of image file format 1)png-Portable Network ,2)jpg- Joint Photographic Expers Group,3)px-pixel. Some of the main uses of images on website include: 1)VisualAppeal,2)Branding,3)Illustration, 4)Navigation. Pixeles , Pixabay , Unsplash,these are the some platform for Bring Images.  
+ 
+ ### I Learn about Video & Audio . I submit my HTML code of video & audio in files . video.html & audio.html . 
