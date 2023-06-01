@@ -41,3 +41,7 @@ for ex: Google's Blink, Mozilla firefox's Gecko, Apple's Webkit.
  ### IMAGES: Images are a common element of web design & they serve a number of different purpose on websites. There are 3 types of image file format 1)png-Portable Network ,2)jpg- Joint Photographic Expers Group,3)px-pixel. Some of the main uses of images on website include: 1)VisualAppeal,2)Branding,3)Illustration, 4)Navigation. Pixeles , Pixabay , Unsplash,these are the some platform for Bring Images.  
  
  ### I Learn about Video & Audio . I submit my HTML code of video & audio in files . video.html & audio.html . 
+
+### LIST: A list is a group of related items that are displayed in a specific order. Lists are useful in websites for several reasons: 1)List can help to organize content on a clear & logical way.Making it easier for users to understand & navigate.2)List can be used to break up large blocks of text & make the content more visually appealing & easier to read.3)List can be used to highlight important points or information, making it easier for users to find & refernce specific pieces of content. list.html
+
+### Links: Links(also known as hyperlinks) are used in websites to allow users to navigate from one web page to another web page. when a user clicks on a link, they are taken to the destination page specified by the link. Use cases for links in HTML 1)Navigation , 2)External refernces , 3)Downloadable content , 4)E-commerce , 5)Social Media. links.html 
