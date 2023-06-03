@@ -49,3 +49,10 @@ for ex: Google's Blink, Mozilla firefox's Gecko, Apple's Webkit.
 ### TABLE: A table is a structured set of data made up of rows and columns (tabular data). A table allows you to quickly and easily look up values that indicate some kind of connection between different types of data. Rows - horizontal , Columns - verticle , cellpadding - box , cellspacing - gap between cells ,rowspan- rows merge, colspan - column merge . "table.html" "Time table project.html" . 
 
 ### FORMS:A position of a page known as as HTML form contains controls including text fields , password fields , checkboxes , a radio button, a submit button, menu etc.An HTML form makes it easier for the user to input data like name, email, address, password, phone no, etc. that may be transferred to the server for processing . #### why use HTML form:- If you wish to collect data from a site visitor , HTML  forms are necessary. HTML tags & element:- border,form, textfield , textarea, Label, password field control, Radio button, checkbox, submit, fieldset .  
+
+#### HTTP:- Hyper Text Transfer Protocol.
+#### There are 2 types of forms :- 1)GET forms , 2)POST forms .
+
+### 1) GET forms :- After submitting the form, the GET method displays form values in the address bar of the now browser tab, It is only allowed to be roughly 3000 characters long. Only non-source data, non sensitive data can be use with it < form method ="get" > .
+
+### GET - 
