@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title> Get form </title>
+</head>
+<body>
+     <fieldset>
+        <legend> # CUSTOMER DETAILS # </legend>
+                                               <!-- action is route(server side request handling) -->
+            <!-- form method="get" ( submit details in URL)  -->
+                                               <form method="post" target="_blank" action="/signup" >
+
+                              <!-- blank means blank page  -->
+             <label for="username"> Enter you name : </label> 
+            <input type="text" id="username" name="username" title="full name">
+ <br>            
+           
+ <label for="address"> Enter you address : </label>
+            <input type="text" name="address" id="address" title="address">
+ <br>      
+            <label for="mail"> E-mail </label>
+            <input type="text" name="mail" id="mail" title="e mail">
+<br>
+           <label for="password"> Enter you password</label>
+           <input type="text" name="password" id="password" title="password">
+<br>
+      Gender : 
+<br>                                      
+      <label for="gender">Male</label>
+                                                 <!--value for server side information  -->
+     <input type="radio" name="gender" id="male" value="male">
+     <br>
+     <label for="gender">Female</label>
+     <input type="radio" name="gender" id="Female" value="Female">                             
+     <br>
+     <label for="gender">other</label>
+     <input type="radio" name="gender" id="other" value="other">                             
+<br>
+   <input type="submit" value="submit your details">      
+                               <!-- type submit for SUBMIT  -->
+        </form>
+    </fieldset>
+</body>
+</html>
