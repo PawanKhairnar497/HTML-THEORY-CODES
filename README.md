@@ -55,4 +55,4 @@ for ex: Google's Blink, Mozilla firefox's Gecko, Apple's Webkit.
 
 ### 1) GET forms :- After submitting the form, the GET method displays form values in the address bar of the now browser tab, It is only allowed to be roughly 3000 characters long. Only non-source data, non sensitive data can be use with it < form method ="get" > .
 
-### GET - 
+### 2) POST forms :- Unlike the GET method & post method prevents form values from appearing in the form has been submitted. It adds form  information to the body. < form method="POST"> .  
