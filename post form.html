@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Post Forms </title>
+</head>
+<body>
+    <form >
+
+ <!-- for form border use fieldset -->
+        <fieldset> 
+
+ <!-- for form title use legend -->
+            <legend> # CUSTOMER DETAILS  # </legend> 
+
+        <label for="name">Enter your name : </label>
+        <input type="text" id="name" name="username">
+   
+<br>
+<!-- breaking tag -->
+        <label for="address"> Enter your address : </label> 
+         <textarea  cols="15" rows="2" id="address" name="useraddress" ></textarea>   
+<br>
+         <label for="DOB"> Enter your DOB : </label>
+                             <!-- id="" for frontend Browser side -->
+         <input type="date"  id="DOB" name="user DOB">
+<br>
+        <label for="password"> Enter your password : </label>
+                                                   <!--name="" for server side  -->
+         <input type="password" id="password" name="userpassword">
+<br>        
+        select gender:     
+ <t1>
+      <label for="male">male</label>
+      <!-- radio  button for selecting an option -->
+      <input type="radio" name="gender" id="male">
+</t1> 
+
+ <t2>     <label for="female">female</label>
+      <input type="radio" name="gender" id="female">
+</t2>
+
+    <br>
+     Which is your favourite movie : 
+
+     <br>     
+       <label for="Avengers">Avengers</label>
+       <!-- checkbox for selecting multiple options -->
+       <input type="checkbox" name="war" id="war">
+
+     <br>      
+       <label for="fast & furious">fast & furious</label>
+       <input type="checkbox" name="fast & furious" id="fast & furious">
+
+     <br>   
+      <label for="Need for speed">Need for speed</label>
+      <input type="checkbox" name="Need for speed" id="Need for speed">
+ <br>
+<input type="submit">
+
+    </fieldset>
+    </form>
+</body>
+</html>
