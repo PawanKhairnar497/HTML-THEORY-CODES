@@ -56,3 +56,5 @@ for ex: Google's Blink, Mozilla firefox's Gecko, Apple's Webkit.
 ### 1) GET forms :- After submitting the form, the GET method displays form values in the address bar of the now browser tab, It is only allowed to be roughly 3000 characters long. Only non-source data, non sensitive data can be use with it < form method ="get" > .
 
 ### 2) POST forms :- Unlike the GET method & post method prevents form values from appearing in the form has been submitted. It adds form  information to the body. < form method="POST"> .  
+
+### 🦖HTML & HTML 5 :- HTML is a standard markup language for creating web pages & web applications. It is the foundation of the world wide web & is used to describe the structure of content in documents, such as headings,paragraphs,lists,links,quotes and other items. 🦖 HTML 5 :- HTML 5 is the latest version of HTML & includes new features that allow web developers to create more interactive & engaging content for the web. It provide support for <audio> , <video> , <canvas> . There are many page layout options available in HTML 5, ( <header>  <footer> <article> <section> ). HTML 5 supports SEARCH ENGINE OPTIMISATION (SEO) .
