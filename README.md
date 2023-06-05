@@ -63,3 +63,7 @@ for ex: Google's Blink, Mozilla firefox's Gecko, Apple's Webkit.
 ### 🦖HTML & HTML 5 :- HTML(Hyper Text Markup Languages) is a standard markup language for creating web pages & web applications. It is the foundation of the world wide web & is used to describe the structure of content in documents, such as headings,paragraphs,lists,links,quotes and other items. 🦖 HTML 5 :- HTML 5 is the latest version of HTML & includes new features that allow web developers to create more interactive & engaging content for the web. It provide support for audio , video , canvas . There are many page layout options available in HTML 5, ( header , footer ,article ,section ). HTML 5 supports SEARCH ENGINE OPTIMISATION (SEO) .
 
 ### SEMANTIC TAGS : In HTML semantic tags are tags that describe the meaning or purpose of the content they contain. Semantic tags are used to add meaning to the content of a webpage, making it easier for SEARCH ENGINES & other system to understand the content of a webpage. 🦖Semantic tags.html
+
+### Advantages of semantic tags:- 1)Improved readability & maintainability,2)Enhanced accesibility,3)Better SEO,4)Simplified Styling.
+
+### Semantic elements:- Semantic elements have proper names that indicate the nature of the content. A table,header,footer,etc.HTML 5 provides a number of semantic components that help developers create & comprehend code more easily & give browsers guidance on how to handle certain elements.
