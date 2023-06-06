@@ -22,7 +22,8 @@ for ex: Google's Blink, Mozilla firefox's Gecko, Apple's Webkit.
 # Start with HTML - 
 #### I Learn about html,head,body tags & extensions like Live server , prettier. I write & run my first programme today. I am very happy & curious about my Full Stack Web Developement Journey. 🦖print_helloworld.html
  
- ### HTML: HTML means "Hyper Text Markup Language". HTML used to create & structure content on the web. HTML was created by Berners-Lee in late 1991 but "HTML 2.0"was the first standard HTML specifications which was published in 1995. HTML 4.01 was a major version of HTML & it was published in late 1999. HTML invented in CERN research institute of Switzerland in 1991. HTML is a skeleton of Websites.      
+ ### HTML: HTML means "Hyper Text Markup Language". HTML used to create & structure content on the web. HTML was created by Berners-Lee in late 1991 but "HTML 2.0"was the first standard HTML specifications which was published in 1995. HTML 4.01 was a major version of HTML & it was published in late 1999. HTML invented in CERN research institute of Switzerland in 1991. 
+ ### 🦖HTML is a skeleton of Websites.      
  #### I learn "comment" , "Tags" , "Element" , "Attribute" & "HTML entities".  🦖entities.html
  
  ### BOILER PLATE CODE: Boiler plate code input :- ! + Tab . 
